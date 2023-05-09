@@ -1,29 +1,11 @@
 {
   "tasks": [
-    {
-      "id": 1,
-      "name": "Task 1",
-      "isDone": false
-    },
+    { "id": 1, "name": "Finish the Bootcamp alive", "isDone": false },
     {
       "id": 2,
-      "name": "Task 2",
+      "name": "Know the answer to '¡Qué Hago, Que Hago!'",
       "isDone": false
     },
-    {
-      "id": 3,
-      "name": "Task 3",
-      "isDone": false
-    },
-    {
-      "id": 4,
-      "name": "Task 4",
-      "isDone": true
-    },
-    {
-      "id": 5,
-      "name": "Task 5",
-      "isDone": true
-    }
+    { "id": 3, "name": "Miss the Bootcamp experience", "isDone": false }
   ]
 }
